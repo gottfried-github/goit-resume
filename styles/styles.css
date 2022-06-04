@@ -5,4 +5,6 @@ body {
 .main {
     display: flex;
     flex-direction: row-reverse;
+    width: 1200px;
+    margin: auto;
 }
