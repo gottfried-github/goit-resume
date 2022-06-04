@@ -8,3 +8,24 @@ body {
     width: 1200px;
     margin: auto;
 }
+
+.sidebar {
+    padding-top: 40px;
+    background-color: #1E2939;
+}
+
+.sidebar > .photo {
+    width: 370px;
+}
+
+.sidebar-block {
+    margin-left: 40px;
+    margin-top: 45px;
+}
+
+.sidebar-block-title {
+    font-size: 22px;
+    line-height: 27px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
