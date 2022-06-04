@@ -12,10 +12,16 @@ body {
 .sidebar {
     padding-top: 40px;
     background-color: #1E2939;
+
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #FFFFFF;
 }
 
 .sidebar > .photo {
     width: 370px;
+    margin-bottom: 50px;
 }
 
 .sidebar-block {
@@ -26,6 +32,19 @@ body {
 .sidebar-block-title {
     font-size: 22px;
     line-height: 27px;
-    font-weight: bold;
-    color: #FFFFFF;
+    font-weight: 700;
 }
+
+.contacts {
+
+}
+
+.contacts .contact-type {
+    font-weight: 700;
+}
+
+.contacts .contact-link {
+    color: inherit;
+    opacity: 0.5;
+}
+
