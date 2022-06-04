@@ -48,3 +48,15 @@ body {
     opacity: 0.5;
 }
 
+.skills-list {
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.skills-item {
+    color: #FB6D3A;
+}
+
+.skills-item .skills-text {
+    color: #FFFFFF;
+}
