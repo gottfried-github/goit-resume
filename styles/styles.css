@@ -108,7 +108,12 @@ body {
 }
 
 .about > .description {
+    margin: 8px 0px; 
+}
 
+.description.accent {
+    color: #FB6D3A;
+    font-weight: 700;
 }
 
 
@@ -133,8 +138,18 @@ body {
 
 .separator {
     margin: 0px 8px;
-    
+
     color: #000000;
+}
+
+.job-organization {
+    color: #FB6D3A;
+}
+
+
+/* Education */
+.education > .institution {
+    color: #FB6D3A;
 }
 
 /* Sidebar */
