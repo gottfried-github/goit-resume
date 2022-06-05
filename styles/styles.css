@@ -116,6 +116,9 @@ body {
     font-weight: 700;
 }
 
+.about .tech-badge {
+    background-color: rgba(0, 0, 0, 0.1);
+}
 
 /* Projects */
 
