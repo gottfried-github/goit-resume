@@ -9,6 +9,38 @@ body {
     margin: auto;
 }
 
+/* Main */
+
+.main-content {
+    background-color: #FFFFFF;;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+
+    color: #595959;
+}
+
+.main-title, .tech-badge {
+    color: #000000;
+    font-weight: 700;
+}
+
+.about > .position {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.about > .name {
+
+}
+
+.about > .description {
+
+}
+
+
+/* Sidebar */
+
 .sidebar {
     padding-top: 40px;
     background-color: #1E2939;
