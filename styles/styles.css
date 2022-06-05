@@ -26,7 +26,7 @@ body {
 
 /* Fonts */
 
-.main-title, .badge-primary, .badge-secondary, .tech-badge {
+.main-title, .badge-primary, .badge-secondary, .tech-badge, .projects-item, .b-bracket {
     color: #000000;
     font-weight: 700;
 }
@@ -113,6 +113,20 @@ body {
 
 
 /* Projects */
+
+.projects-item {
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.project-content {
+    margin-left: 14px;
+
+    font-size: 14px;
+    font-weight: 400;
+
+    color: #595959;
+}
 
 
 /* Sidebar */
