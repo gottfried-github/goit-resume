@@ -38,6 +38,14 @@ body {
     font-weight: 700;
 }
 
+.about, .work {
+    margin-bottom: 40px;
+}
+
+.projects {
+    margin-bottom: 50px;
+}
+
 .about > .main-title {
     font-size: 45px;
     line-height: 55px;
