@@ -129,6 +129,14 @@ body {
 }
 
 
+/* Work */
+
+.separator {
+    margin: 0px 8px;
+    
+    color: #000000;
+}
+
 /* Sidebar */
 
 .sidebar {
