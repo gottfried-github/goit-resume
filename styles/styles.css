@@ -9,6 +9,7 @@ body {
     margin: auto;
 }
 
+
 /* Main */
 
 .main-content {
@@ -21,6 +22,9 @@ body {
 
     color: #595959;
 }
+
+
+/* Fonts */
 
 .main-title, .badge-primary, .badge-secondary, .tech-badge {
     color: #000000;
@@ -38,6 +42,28 @@ body {
     font-weight: 700;
 }
 
+.detail {
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #A8A8A8;
+}
+
+/* Spacing */
+
+.work > .main-title, .education > .main-title, .work-entry > .main-title,
+.badge-primary, .badge-secondary {
+    margin: 0px 0px 12px 0px;
+}
+
+.projects > .main-title {
+    margin: 0px 0px 8px 0px;
+}
+
+.detail {
+    margin: 0px 0px 12px 0px;
+}
+
 .about, .work {
     margin-bottom: 40px;
 }
@@ -46,13 +72,18 @@ body {
     margin-bottom: 50px;
 }
 
+
+/* About */
+
 .about > .main-title {
     font-size: 45px;
     line-height: 55px;
+
+    margin: 20px 0px 25px 0px;
 }
 
-.about > .position {
-    font-size: 15px;
+.about > .badge-primary {
+    font-size: 14px;
     line-height: 20px;
     font-weight: 700;
 }
@@ -60,6 +91,8 @@ body {
 .about > .description {
 
 }
+
+
 
 
 /* Sidebar */
