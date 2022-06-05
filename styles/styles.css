@@ -73,6 +73,17 @@ body {
 }
 
 
+/* Links */
+
+.project-link, .portfolio-link {
+    color: inherit;
+}
+
+.project-link {
+    text-decoration: none;
+}
+
+
 /* Lists */
 
 .projects-list, .responsibilities {
@@ -101,6 +112,7 @@ body {
 }
 
 
+/* Projects */
 
 
 /* Sidebar */
