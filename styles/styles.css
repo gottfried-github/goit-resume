@@ -82,7 +82,7 @@ body {
 
 /* Links */
 
-.project-link, .portfolio-link {
+.project-link, .portfolio-link, .badge-link {
     color: inherit;
 }
 
