@@ -1,0 +1,94 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: auto;
+}
+
+/* Main */
+
+.main-content {
+    background-color: #FFFFFF;;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+
+    color: #595959;
+}
+
+.main-title, .tech-badge {
+    color: #000000;
+    font-weight: 700;
+}
+
+.about > .position {
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 700;
+}
+
+.about > .name {
+
+}
+
+.about > .description {
+
+}
+
+
+/* Sidebar */
+
+.sidebar {
+    padding-top: 40px;
+    background-color: #1E2939;
+
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.sidebar > .photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+.sidebar-block {
+    margin-left: 40px;
+    margin-bottom: 45px;
+}
+
+.sidebar-block > .sidebar-title {
+    margin-bottom: 10px;
+
+    font-size: 22px;
+    line-height: 27px;
+    font-weight: 700;
+}
+
+.contacts .contact-type {
+    margin-right: 10px;
+
+    font-weight: 700;
+}
+
+.contacts .contact-link {
+    color: inherit;
+    opacity: 0.5;
+}
+
+.skills-list {
+    padding: 0px;
+    margin-left: 15px;
+}
+
+.skills-item {
+    color: #FB6D3A;
+}
+
+.skills-item .skills-text {
+    color: #FFFFFF;
+}
