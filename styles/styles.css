@@ -5,7 +5,8 @@ body {
 .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: fit-content;
+    /* max-width: 1400px; */
     margin: auto;
 }
 
@@ -71,6 +72,11 @@ body {
 
 .projects {
     margin-bottom: 50px;
+}
+
+/* Size */
+.about, .work, .education {
+    max-width: 750px;
 }
 
 
